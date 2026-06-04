@@ -2,18 +2,18 @@
 This respository includes codes of the journal paper 'Convergence of NLFEAST'.
 
 
-All programs in this repository **must** be run with `./ConvNLFEAST` as the root directory. Before running any program, please make sure that:
+All programs in this repository **must** be run with `./ConvNLFEAST-master` as the root directory. Before running any program, please make sure that:
 
-1. You are currently in the `./ConvNLFEAST` directory.
+1. You are currently in the `./ConvNLFEAST-master` directory.
 2. All folders under this directory have been temporarily added to the MATLAB path.
 
 To add the folders to the MATLAB path:
 
 1. **If you are using the MATLAB graphical interface**:  
-   Right-click `ConvNLFEAST` > `Add to Path` > `Selected Folders and Subfolders`.
+   Right-click `ConvNLFEAST-master` > `Add to Path` > `Selected Folders and Subfolders`.
 
 2. **If you are using the command line**:  
-   Open MATLAB in the `./ConvNLFEAST` directory and run
+   Open MATLAB in the `./ConvNLFEAST-master` directory and run
 
    ```matlab
    addpath(genpath('./'));
