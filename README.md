@@ -1,5 +1,5 @@
 # Convergence Theory of NLFEAST
-This respository includes codes of the journal paper 'Convergence of NLFEAST'.
+This respository includes codes of the journal paper 'Linear convergence of iterative contour integral-based eigensolvers for nonlinear eigenvalue problems'.
 
 
 All programs in this repository **must** be run with `./ConvNLFEAST-master` as the root directory. Before running any program, please make sure that:
