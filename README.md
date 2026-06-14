@@ -1,5 +1,7 @@
-# Convergence Theory of NLFEAST
-This respository includes codes of the journal paper 'Linear convergence of iterative contour integral-based eigensolvers for nonlinear eigenvalue problems'.
+# Linear convergence of iterative contour integral-based eigensolvers for nonlinear eigenvalue problems
+This repo contains scripts to reproduce the numerical experiments in [1].
+
+[1] Daniel Kressner, Yuqi Liu, Jose E. Roman, Meiyue Shao, Nian Shao. Linear convergence of iterative contour integral-based eigensolvers for nonlinear eigenvalue problems. arXiv: 2606.13357
 
 
 All programs in this repository **must** be run with `./ConvNLFEAST-master` as the root directory. Before running any program, please make sure that:
